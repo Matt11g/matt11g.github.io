@@ -9,7 +9,7 @@
     <lastBuildDate>Sat, 14 Sep 2024 22:59:26 +0800</lastBuildDate>
     <atom:link href="https://matt11g.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>🙋🏻‍♂️About</title>
+      <title>About</title>
       <link>https://matt11g.github.io/en/about/</link>
       <pubDate>Sat, 14 Sep 2024 22:59:26 +0800</pubDate>
       <guid>https://matt11g.github.io/en/about/</guid>
@@ -38,6 +38,17 @@
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Hello, Jeju!</title>
+      <link>https://matt11g.github.io/en/posts/life/jeju/</link>
+      <pubDate>Sun, 31 Mar 2024 00:52:59 +0800</pubDate>
+      <guid>https://matt11g.github.io/en/posts/life/jeju/</guid>
+      <description>&lt;!--![&#34;Aewol-eup&#34;](jeju.jpg)--&gt;
+&lt;center&gt;
+&lt;img src=jeju.jpg alt=&#34;Aewol-eup&#34; width=&#34;450&#34; height=&#34;600&#34;&gt;
+&lt;/center&gt;
+&lt;p&gt;It was my first time to go abroad to celebrate my 21th birthday. I&amp;rsquo;d made a clear and detailed tour itinerary for this trip. Although the weather was not quite good, it was a really nice trip.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Jiaxin Liu</title>
+    <link>https://matt11g.github.io/en/posts/</link>
+    <description>Recent content in Posts on Jiaxin Liu</description>
+    <generator>Hugo -- 0.134.2</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 31 Mar 2024 00:52:59 +0800</lastBuildDate>
+    <atom:link href="https://matt11g.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello, Jeju!</title>
+      <link>https://matt11g.github.io/en/posts/life/jeju/</link>
+      <pubDate>Sun, 31 Mar 2024 00:52:59 +0800</pubDate>
+      <guid>https://matt11g.github.io/en/posts/life/jeju/</guid>
+      <description>&lt;!--![&#34;Aewol-eup&#34;](jeju.jpg)--&gt;
+&lt;center&gt;
+&lt;img src=jeju.jpg alt=&#34;Aewol-eup&#34; width=&#34;450&#34; height=&#34;600&#34;&gt;
+&lt;/center&gt;
+&lt;p&gt;It was my first time to go abroad to celebrate my 21th birthday. I&amp;rsquo;d made a clear and detailed tour itinerary for this trip. Although the weather was not quite good, it was a really nice trip.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
