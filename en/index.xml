@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Jiaxin Liu</title>
+    <link>https://matt11g.github.io/en/</link>
+    <description>Recent content on Jiaxin Liu</description>
+    <generator>Hugo -- 0.134.2</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 14 Sep 2024 22:59:26 +0800</lastBuildDate>
+    <atom:link href="https://matt11g.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🙋🏻‍♂️About</title>
+      <link>https://matt11g.github.io/en/about/</link>
+      <pubDate>Sat, 14 Sep 2024 22:59:26 +0800</pubDate>
+      <guid>https://matt11g.github.io/en/about/</guid>
+      <description>&lt;p&gt;Hi, there, I am Jiaxin Liu. Currently I am an undergraduate student in Kuang Yaming Honors School at Nanjing University, majoring in computer science and technology. Also, I am an incoming Ph.D. student in School of Software at Tsinghua University.&lt;/p&gt;
+&lt;p&gt;My research interests lie mainly in formal verification and program analysis. If you are interested, please feel free to drop me an email.&lt;/p&gt;
+&lt;p style=&#34;font-size: 25px;&#34;&gt;About me&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Chinese Name:&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;刘嘉欣&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;English Name:&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Zach&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Hobbies:&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Running, Hiking, Piano, Oil Painting&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+  </channel>
+</rss>
